@@ -9,3 +9,8 @@
 5.Gain gold coins in the game to upgrade heroes and equipment.
 
 6.BNB awards are issued at regular intervals.
+
+Current projects:Exchange function test.
+
+Next:Making NFT.
+
